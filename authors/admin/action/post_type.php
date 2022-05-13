@@ -12,7 +12,7 @@ new class
 
             'name' => 'Autores', //nome geral para o tipo de postagem, geralmente plural.
             'singular_name' => 'Autor', //nome para um objeto deste tipo de postagem.
-            'menu_name' => 'Autor', // Nome exibido no menu sidebar do painel
+            'menu_name' => 'Autores', // Nome exibido no menu sidebar do painel
             'name_admin_bar' => 'Autor', // Cadeia de caracteres para uso em Novo na barra de menus do administrador. O padrão é o mesmo que 'singular_name'
             'add_new' => 'Adicionar novo',  // o texto adicionar novo. O padrão é "Adicionar novo"
             'add_new_item' => 'Novo',
