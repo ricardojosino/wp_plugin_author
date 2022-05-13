@@ -1,0 +1,1 @@
+<input type="search" name="s" id="s" placeholder="Pesquisar" value="<?php echo $search ?>">
